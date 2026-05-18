@@ -1,4 +1,4 @@
-# README: Ingestão de Dados e Upload para S3 de Solicitações de Serviço 311 de Boston
+# Pipeline AWS S3: ingestão de Dados e upload para S3 de solicitações de serviço 311 de Boston
 
 ## Visão Geral
 Este notebook demonstra um pipeline de ingestão de dados utilizando dados de solicitações de serviço 311 da cidade de Boston. 
